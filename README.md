@@ -1,16 +1,29 @@
-## Hi there 👋
+# Andon Mack's 🛡️ Cybersecurity Project Portfolio
 
-<!--
-**amack3131/amack3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a cybersecurity enthusiast with a passion for hands-on learning and solving complex challenges in the digital world. My projects explore various aspects of cyber defense, from risk assessments to vulnerability management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- [Vulnerability Management Program Implementation](https://github.com/amack3131/Vulnerability-Management-Program-Implementation)
+- [Vulnerability Management Program (Fork)](https://github.com/amack3131/Vulnerability-Management-Program)
+- [Azure Honeynet SOC Lab](https://github.com/amack3131/Azure-Honeynet-SOC-Lab)
+
+---
+
+## 🔐 Risk and Compliance Projects
+
+- [Cyber Risk Assessment for FinTech](https://github.com/amack3131/Cyber-Risk-Assessment-for-FinTech)
+
+---
+
+## 💬 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-andonrmack@gmail.com-informational?style=flat&logo=gmail)](mailto:andonrmack@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andon-mack-62632ab2-blue?logo=linkedin)](https://www.linkedin.com/in/andon-mack-62632ab2)  
+[![Medium](https://img.shields.io/badge/Medium-@andonrmack-black?logo=medium)](https://medium.com/@andonrmack)
+
+---
+
+> 💡 More projects and write-ups coming soon. Stay tuned!
