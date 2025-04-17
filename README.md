@@ -18,11 +18,22 @@ Hi! I'm a cybersecurity enthusiast with a passion for hands-on learning and solv
 
 ---
 
-## 💬 Connect With Me
+## 🧩 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-andonrmack@gmail.com-informational?style=flat&logo=gmail)](mailto:andonrmack@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andon-mack-62632ab2-blue?logo=linkedin)](https://www.linkedin.com/in/andon-mack-62632ab2)  
-[![Medium](https://img.shields.io/badge/Medium-@andonrmack-black?logo=medium)](https://medium.com/@andonrmack)
+<p align="left">
+  <a href="mailto:andonrmack@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andon-mack-62632ab2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@andonrmack" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://github.com/amack3131" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
