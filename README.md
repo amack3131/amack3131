@@ -1,3 +1,8 @@
+<!-- Banner at top -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amack3131/amack3131/main/banner.png" alt="Andon Mack | Cybersecurity Professional Banner" width="100%">
+</p>
+
 # Hi, I'm Andon! I'm a [**Cybersecurity Professional**](https://www.linkedin.com/in/andon-mack-62632ab2/)
 
 Motivated and security-focused cybersecurity professional with over 3 years of hands-on experience supporting Security Operations, Vulnerability Management, and Incident Response in enterprise environments. Proficient in detecting, investigating, and escalating threats using Microsoft Sentinel, Defender for Endpoint, Tenable.io, and PowerShell automation. Skilled at developing SIEM dashboards, refining detection logic, and reducing false positives to improve SOC efficiency. Experienced in documenting investigations, writing clear incident reports, and collaborating effectively across technical and non-technical teams. Currently pursuing **Security+**, **Splunk Core Certified User & Power User**, and **Microsoft Azure Fundamentals (AZ-900)** certifications to expand expertise in detection, SIEM optimization, and cloud security — building the foundation to excel as a versatile and high-impact SOC Analyst on a forward-thinking security team.
