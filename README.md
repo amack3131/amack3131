@@ -33,7 +33,6 @@ Motivated and security-focused cybersecurity professional with over 3 years of h
 - CompTIA Security+ (Expected Sept 2025)  
 - Splunk Core Certified User / Power User  
 - Microsoft Azure Fundamentals (AZ-900)  
-- CISSP (Expected July 2025)
 
 ---
 
