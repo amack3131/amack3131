@@ -1,7 +1,3 @@
-<!-- Banner at top -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amack3131/amack3131/main/banner.png" alt="Andon Mack | Cybersecurity Professional Banner" width="100%">
-</p>
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eaa3ac0e-4cf9-40c9-a48f-bd3cff93bbd4" />
 
 # Hi, I'm Andon! I'm a [**Cybersecurity Professional**](https://www.linkedin.com/in/andon-mack-62632ab2/)
