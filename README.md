@@ -6,6 +6,14 @@ Motivated and security-focused cybersecurity professional with over 3 years of h
 
 ---
 
+## 💼 Professional Experience & Mentorship  
+
+I have been mentored directly by cybersecurity expert **Josh Madakor**, where I gained real-world experience in security operations, vulnerability management, and SIEM engineering. This hands-on guidance sharpened my technical skills, problem-solving mindset, and ability to deliver measurable impact. You can review my documented internship takeaways and professional reference here:  
+
+📄 **[Professional Reference](https://github.com/amack3131/Professional-Reference)**  
+
+---
+
 ## 🛡️ Cybersecurity Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/amack3131/Vulnerability-Management-Program-Implementation)**  
