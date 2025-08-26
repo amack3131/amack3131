@@ -14,16 +14,16 @@ Motivated and security-focused cybersecurity professional with over 3 years of h
 - **[Building a SOC / Honeynet in Azure with Live Traffic](https://github.com/amack3131/Building-a-SOC-Honeynet-in-Azure-with-Live-Traffic)**  
   Built and secured a honeynet in Microsoft Azure to simulate live attack traffic. Integrated logs into **Microsoft Sentinel**, created custom KQL queries, built dashboards, and developed incident detection and response workflows.
 
-- **Incident Response Playbooks (coming soon)**  
-  Developing structured playbooks for common attack scenarios (phishing, malware infection, privilege escalation). Each playbook includes detection triggers, escalation paths, and response steps.
+- **[Incident Response Playbooks](https://github.com/amack3131/Incident-Response-Playbooks/blob/main/README.md)**  
+  Structured playbooks for common attack scenarios (phishing, malware infection, privilege escalation). Each playbook includes detection triggers, escalation paths, and response steps.
 
-- **SOC Analyst Toolkit (coming soon)**  
+- **[SOC Analyst Toolkit](https://github.com/amack3131/SOC-Analyst-Toolkit)**  
   A collection of tools, scripts, and resources tailored for SOC analysts to streamline log analysis, detection, and case management.
 
-- **Writeups & Walkthroughs (coming soon)**  
+- **[Writeups & Walkthroughs](https://github.com/amack3131/Writeups-Walkthroughs/tree/main)**  
   Documented security lab walkthroughs and CTF-style challenges, showcasing technical problem-solving and investigative methods.
 
-- **Keylogger (coming soon)**  
+- **[Keylogger](https://github.com/amack3131/Keylogger/blob/main/README.md)**  
   Demonstration of ethical malware development for research and educational purposes, including detection/response techniques.
 
 - **[Governance, Risk and Compliance Capstone Project](https://github.com/amack3131/Governance-Risk-and-Compliance-Capstone-Project/blob/main/README.md)**  
